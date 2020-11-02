@@ -6,7 +6,7 @@ Different combinations of ensemble learning between models have been carried out
 
 This project deals with keras, pytorch, multi-classifications problem, speech analysis, semi-supervised learning, augmentation of speech, and GANs.
 
-All the project details could be found in this paper [Dual_Mode_Crash_Avoidance_Paper (https://github.com/user/repo/blob/branch/other_file.md)
+All the project details could be found in this paper [Dual_Mode_Crash_Avoidance_Paper (https://github.com/Ahmed15497/Speech-Recognition/blob/main/Dual_Mode_Crash_Avoidance_Paper.pdf)
 
 
 The code is in the attatched notebooks 
